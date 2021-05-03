@@ -1,0 +1,23 @@
+{
+  "name": "@colin3dmax/gatsby-remark-markmap",
+  "version": "0.3.6",
+  "author": "Gerald <i@gerald.top>",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "@colin3dmax/markmap-lib": "^0.11.2",
+    "unist-util-visit": "^2.0.3"
+  },
+  "repository": "git@github.com:gera2ld/gatsby-remark-markmap.git",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "markdown",
+    "markmap"
+  ]
+}
